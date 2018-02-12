@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1518406031 source:f:\personal\cbasicdemo\basic\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1518415985 source:f:\personal\cbasicdemo\basic\toupcase.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1518417833 source:f:\personal\cbasicdemo\basic\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
