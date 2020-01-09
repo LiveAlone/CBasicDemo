@@ -3,4 +3,5 @@
 default: all
 
 .DEFAULT:
-	echo "haha"
+	cc main.c && ./a.out 
+

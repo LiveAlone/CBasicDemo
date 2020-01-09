@@ -2,8 +2,10 @@
 // Created by yaoqijun on 2020/1/8.
 //
 
-#include <stdio.h>
+#include<stdio.h>
+#include "util.h"
 
 int main(){
-    printf("hello world content");
+    printf("current value config is %d \n", MAX_LENGTH);
 }
+

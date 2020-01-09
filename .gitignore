@@ -3,3 +3,6 @@
 *.cbp
 
 cmake-build-debug/
+
+.vscode/
+a.out
