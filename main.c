@@ -3,9 +3,16 @@
 //
 
 #include<stdio.h>
-#include "util.h"
+
+typedef struct
+{
+    int x;
+    int y;
+} Point;
+
+
 
 int main(){
-    printf("current value config is %d \n", MAX_LENGTH);
+    Point p = {0 , 0};
+    printf("point x is : %d \n", p.x);
 }
-
